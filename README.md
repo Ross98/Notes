@@ -1,2 +1,1 @@
-# Git
-hello
+# This is a personal study note about programing on Linux.
